@@ -1,13 +1,12 @@
-# Exercism Rust
+# Starting with Rust <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 
-_Repositório com desafios de programação com a linguagem Rust._
+### About the project
+
+Created for Rust language studies. The repository consists of some programming challenge exercises, which bring up 
+issues related to the use of the language and its development patterns.
 
 
-
-## Syllabus Rust Road
-
-### Basics :white_check_mark:
-
+### List of Challenges
 
 | Title                     | Subject                              | Description                                                                                 | Solution                                                                                               | Tests                                                                                                                         |
 |---------------------------|--------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
