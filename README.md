@@ -13,10 +13,4 @@ issues related to the use of the language and its development patterns.
 | Hello World               | `Basics of Rust`                     | [Link here](https://github.com/CleuJunior/Exercism-Rust/tree/main/hello-world)              | [Link here](https://github.com/CleuJunior/Exercism-Rust/blob/main/hello-world/src/lib.rs)              | [Link here](https://github.com/CleuJunior/Exercism-Rust/blob/main/hello-world/tests/hello-world.rs)                           |
 | Lucian's Luscious Lasagna | `Functions`                          | [Link here](https://github.com/CleuJunior/Exercism-Rust/tree/main/lucians-luscious-lasagna) | [Link here](https://github.com/CleuJunior/Exercism-Rust/blob/main/lucians-luscious-lasagna/src/lib.rs) | [Link here](https://github.com/CleuJunior/Exercism-Rust/blob/main/lucians-luscious-lasagna/tests/lucians-luscious-lasagna.rs) |
 | Assembly Line             | `Floating Point Numbers`, `Integers` | [Link here](https://github.com/CleuJunior/Exercism-Rust/tree/main/assembly-line)            | [Link here](https://github.com/CleuJunior/Exercism-Rust/blob/main/assembly-line/src/lib.rs)            | [Link here](https://github.com/CleuJunior/Exercism-Rust/blob/main/assembly-line/tests/assembly-line.rs)                       |
-
-
-
-
-
-
-
+| Semi Structured Logs      | `Enums Basic`                        | [Link here](https://github.com/CleuJunior/Exercism-Rust/tree/main/semi-structured-logs)     | [Link here](https://github.com/CleuJunior/Exercism-Rust/blob/main/semi-structured-logs/src/lib.rs)     | [Link here](https://github.com/CleuJunior/Exercism-Rust/blob/main/semi-structured-logs/tests/semi-structured-logs.rs)         |
